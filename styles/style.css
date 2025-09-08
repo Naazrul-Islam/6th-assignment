@@ -1,7 +1,7 @@
 @import "tailwindcss";
-.active{
-        background-color: green;
-        color: white;
-        border-radius: 16px;
-        width: 100%;
-      }
+.active {
+  background-color: green;
+  color: white;
+  border-radius: 16px;
+  width: 100%;
+}
